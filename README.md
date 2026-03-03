@@ -1,10 +1,8 @@
 # Olá, me chamo Thiago ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou estudando a carreira de desenvolvimento back-end em java pela alura
-- 👯 Procuro ajudar em Desenvolvimento de novos projetos e aprender um pouco de cada coisa
-- 🤔 estou tentando me desevolver e criar novos networkings na área
-- 
+- 💼 Comecei recentemente meus estudos na programação e atualmente estou fazendo a formação de carreira em Java pela Alura. Possuo conhecimentos básicos em cibersegurança e busco evoluir minhas habilidades e aprender cada vez mais. Meu foco é crescer na área e me desenvolver continuamente como Desenvolvedor Java.
+
 ## Contatos:
 
 <div>
